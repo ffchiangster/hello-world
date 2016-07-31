@@ -1,4 +1,4 @@
 # hello-world
 First Repo
 
-Testing text for for project
+Testing text for first project
